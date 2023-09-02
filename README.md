@@ -1,1 +1,6 @@
-# M.I.A_Phase1_Tasks
+# Linux Basic Commands
+
+cd:
+
+> Changes the current directory.
+
