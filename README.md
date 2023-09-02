@@ -6,8 +6,14 @@ cd:
 cd ..:
 > changes dir to the previous dir
 
+rm / unlink:
+>  Removes files and directories.
+
 mkdir: 
 > Creates a new directory.
+
+clear:
+> clears the terminal
 
 ls:
 > Lists files and directories in the current directory.
@@ -26,6 +32,12 @@ pwd:
 
 man:
 Displays the manual for a command (instructions).
+
+ifconfig:
+> Displays information about the network interface configuration.
+
+touch:
+> Create a new empty file
 
 mv:
 > Moves or renames files and directories.
