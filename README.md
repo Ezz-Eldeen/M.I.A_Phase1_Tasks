@@ -31,7 +31,7 @@ pwd:
 > (Print Working Directory) print the current directory
 
 man:
-Displays the manual for a command (instructions).
+> Displays the manual for a command (instructions).
 
 ifconfig:
 > Displays information about the network interface configuration.
